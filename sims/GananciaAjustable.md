@@ -15,3 +15,6 @@ Analizando mejor la imagen, vemos que la tension de salida es 500 veces mas alta
    ### Ganancia de 5 ![Ganancia 5](Ganancia5.png)
 3.
    ### Ganancia de 2 ![Ganancia 2](Ganancia2.png)
+
+
+Notese como en cada ganancia, se manipula el Switch y va emparejando la resistencia determinada.
