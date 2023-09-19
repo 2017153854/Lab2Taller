@@ -1,5 +1,7 @@
 ### Etapa de Aislamiento
 
+![Aislamiento](img4.png)
+
 ## Resultado de la etapa del amplificador no inversor
 
-![Datasheet](img6.png)
+![Preamplificador](img2.png)
