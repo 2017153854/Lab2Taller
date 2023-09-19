@@ -7,9 +7,9 @@ $$ Vout = 101Vin $$
 
 2) Para el siguiente subcircuito se utilizó un optoacoplador 4N35 para aislar la señal de los canales, configuró de forma que se trabajara Current Transfer Ratio (CTR) del 100% con el fin de tener una ganancia unitaria y con esto tenemos $I_c$ igual a $I_e$.
 
-$$ CTR = 1 $$
-$$ V_F = 1.3 V $$
-$$ I_c = 10 mA $$
+$$ CTR = 1 \\
+ V_F = 1.3 V \\
+ I_c = 10 mA $$
 
 Con esto se puede encontrar el valor de la resistencia limitadora de corriente para el LED y se calculó con la siguiente ecuación:
 
