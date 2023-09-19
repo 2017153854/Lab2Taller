@@ -3,4 +3,6 @@ Etapa de aislamiento:
 
 Vout = Vin(1+(100k/1k) =>   Vout = 101Vin
 
-2) 
+2) Para el siguiente subcircuito se utilizó un optoacoplador 4N35 para aislar la señal de los canales 
+
+
