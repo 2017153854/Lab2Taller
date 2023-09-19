@@ -22,7 +22,7 @@ $$ R = \frac{V_{cc}-V_F}{I_c} $$
 
 $$ R = \frac{5-1.3}{0.01} $$
 
-$$ R = 390 $$
+$$ R = 390 \ohm $$
 
 ![Datasheet](img6.png)
 
