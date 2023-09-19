@@ -16,7 +16,9 @@ $$ CTR = 1
 Con esto se puede encontrar el valor de la resistencia limitadora de corriente para el LED y se calculó con la siguiente ecuación:
 
 $$ R = \frac{V_{cc}-V_F}{I_c} $$
+
 $$ R = \frac{5-1.3}{0.01} $$
+
 $$ R = 390 $$
 
 ![Datasheet](img6.png)
