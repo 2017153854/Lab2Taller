@@ -6,6 +6,6 @@ Se va a utilizar como amplificador ajustable mediante resistencias el AD623AN, e
 
 Este OP va a funcionar para los 2 canales, por lo tanto, un circuito gemelo se va a utilizar con la otra termocupla.
 
-Para obtener la ganancia deseada, el amplificador cuenta con una ecuacion que permite determinar la resistencia imagen 2 ![Ganancia amplificador](Ganancia OP.png)
+Para obtener la ganancia deseada, el amplificador cuenta con una ecuacion que permite determinar la resistencia imagen 2  ![Ganancia amplificador](Ganancia OP.png)
 
 
